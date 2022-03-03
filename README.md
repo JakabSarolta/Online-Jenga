@@ -1,2 +1,2 @@
-# Onlien-Jenga
+# Online-Jenga
 Atestat project
